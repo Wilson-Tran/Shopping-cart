@@ -2,7 +2,7 @@ import { Routes, Route} from "react-router-dom"
 import { Container } from "react-bootstrap"
 import { Home } from "./pages/home"
 import { Store } from "./pages/store"
-import { About } from "./pages/about"
+import { About } from "./pages/About"
 import { Navbar } from "./components/Navbar"
 import { ShoppingCartProvider } from "./context/ShoppingCartContext"
 
